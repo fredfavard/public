@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Ticket>
+    <TicketID>T-111153</TicketID>
+    <Header>cdd-cpe 2.3.1</Header>
+    <Description>cdd-cpe 2.3.1</Description>
+    <Boxes>
+        <Box>
+            <ProductNumber>CXP8765432/1</ProductNumber>
+            <RState>R1A</RState>
+            <Description>cdd-cpe CDD Pipeline Package</Description>
+            <FunctionDesignation>Product Pipelines</FunctionDesignation>
+            <MD5>313a4f56b664edb46d674767d3a83201</MD5>
+            <Filename>CXP8765432_1-R1A.zip</Filename>
+        </Box>
+        <Box>
+            <ProductNumber>59/CXP8765432/1</ProductNumber>
+            <RState>R1A</RState>
+            <Description>cdd-cpe CDD Metadata File</Description>
+            <FunctionDesignation>Product Metadata</FunctionDesignation>
+            <MD5>e8581f2a543da05e946bd5324af5956d</MD5>
+            <Filename>59_CXP8765432_1-R1A.zip</Filename>
+        </Box>
+    </Boxes>
+</Ticket>
+
